@@ -1,0 +1,3 @@
+Music control
+RU	Музыка
+GR	Μουσική
